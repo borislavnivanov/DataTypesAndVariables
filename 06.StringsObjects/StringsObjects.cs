@@ -10,6 +10,9 @@ class StringsObjects
 {
     static void Main()
     {
-
+        string Hello = "Hello";
+        string World = "World";
+        object Words = Hello + " " + World;
+        string Output = (string)Words;
     }
 }

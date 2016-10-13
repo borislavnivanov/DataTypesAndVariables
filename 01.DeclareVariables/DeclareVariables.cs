@@ -11,6 +11,11 @@ class DeclareVariables
 {
     static void Main()
     {
+        uint a = 52130;
+        short b = -115;
+        int c = 4825932;
+        byte d = 97;
+        int e = -10000;
     }
 }
 
